@@ -1,0 +1,2 @@
+# Simple.Enterprise.CQRS
+CQRS
