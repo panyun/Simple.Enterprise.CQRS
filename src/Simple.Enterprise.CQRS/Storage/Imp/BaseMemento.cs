@@ -11,7 +11,7 @@ namespace Simple.Enterprise.CQRS.Storage.Imp
     }
     public class BaseMemento
     {
-        public Guid Id { get; internal set; }
+        public Guid Id { get; protected set; }
         public int Version { get; set; }
     }
 }

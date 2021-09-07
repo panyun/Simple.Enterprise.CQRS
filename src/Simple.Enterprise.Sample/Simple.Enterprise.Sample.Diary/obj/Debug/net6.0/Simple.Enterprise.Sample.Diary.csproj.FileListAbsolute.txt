@@ -1,0 +1,6 @@
+E:\github\Simple.Enterprise.CQRS\src\Simple.Enterprise.Sample\Simple.Enterprise.Sample.Diary\obj\Debug\net6.0\Simple.Enterprise.Sample.Diary.csproj.AssemblyReference.cache
+E:\github\Simple.Enterprise.CQRS\src\Simple.Enterprise.Sample\Simple.Enterprise.Sample.Diary\obj\Debug\net6.0\Simple.Enterprise.Sample.Diary.GeneratedMSBuildEditorConfig.editorconfig
+E:\github\Simple.Enterprise.CQRS\src\Simple.Enterprise.Sample\Simple.Enterprise.Sample.Diary\obj\Debug\net6.0\Simple.Enterprise.Sample.Diary.AssemblyInfoInputs.cache
+E:\github\Simple.Enterprise.CQRS\src\Simple.Enterprise.Sample\Simple.Enterprise.Sample.Diary\obj\Debug\net6.0\Simple.Enterprise.Sample.Diary.AssemblyInfo.cs
+E:\github\Simple.Enterprise.CQRS\src\Simple.Enterprise.Sample\Simple.Enterprise.Sample.Diary\obj\Debug\net6.0\Simple.Enterprise.Sample.Diary.ImplicitNamespaceImports.cs
+E:\github\Simple.Enterprise.CQRS\src\Simple.Enterprise.Sample\Simple.Enterprise.Sample.Diary\obj\Debug\net6.0\Simple.Enterprise.Sample.Diary.csproj.CoreCompileInputs.cache

@@ -1,0 +1,13 @@
+E:\github\Simple.Enterprise.CQRS\src\Simple.Enterprise.CQRS\bin\Debug\net6.0\Simple.Enterprise.CQRS.deps.json
+E:\github\Simple.Enterprise.CQRS\src\Simple.Enterprise.CQRS\bin\Debug\net6.0\Simple.Enterprise.CQRS.dll
+E:\github\Simple.Enterprise.CQRS\src\Simple.Enterprise.CQRS\bin\Debug\net6.0\ref\Simple.Enterprise.CQRS.dll
+E:\github\Simple.Enterprise.CQRS\src\Simple.Enterprise.CQRS\bin\Debug\net6.0\Simple.Enterprise.CQRS.pdb
+E:\github\Simple.Enterprise.CQRS\src\Simple.Enterprise.CQRS\obj\Debug\net6.0\Simple.Enterprise.CQRS.GeneratedMSBuildEditorConfig.editorconfig
+E:\github\Simple.Enterprise.CQRS\src\Simple.Enterprise.CQRS\obj\Debug\net6.0\Simple.Enterprise.CQRS.AssemblyInfoInputs.cache
+E:\github\Simple.Enterprise.CQRS\src\Simple.Enterprise.CQRS\obj\Debug\net6.0\Simple.Enterprise.CQRS.AssemblyInfo.cs
+E:\github\Simple.Enterprise.CQRS\src\Simple.Enterprise.CQRS\obj\Debug\net6.0\Simple.Enterprise.CQRS.ImplicitNamespaceImports.cs
+E:\github\Simple.Enterprise.CQRS\src\Simple.Enterprise.CQRS\obj\Debug\net6.0\Simple.Enterprise.CQRS.csproj.CoreCompileInputs.cache
+E:\github\Simple.Enterprise.CQRS\src\Simple.Enterprise.CQRS\obj\Debug\net6.0\Simple.Enterprise.CQRS.dll
+E:\github\Simple.Enterprise.CQRS\src\Simple.Enterprise.CQRS\obj\Debug\net6.0\ref\Simple.Enterprise.CQRS.dll
+E:\github\Simple.Enterprise.CQRS\src\Simple.Enterprise.CQRS\obj\Debug\net6.0\Simple.Enterprise.CQRS.pdb
+E:\github\Simple.Enterprise.CQRS\src\Simple.Enterprise.CQRS\obj\Debug\net6.0\Simple.Enterprise.CQRS.csproj.AssemblyReference.cache
