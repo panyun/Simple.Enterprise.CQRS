@@ -4,3 +4,13 @@ E:\github\Simple.Enterprise.CQRS\src\Simple.Enterprise.Sample\Simple.Enterprise.
 E:\github\Simple.Enterprise.CQRS\src\Simple.Enterprise.Sample\Simple.Enterprise.Sample.Diary\obj\Debug\net6.0\Simple.Enterprise.Sample.Diary.AssemblyInfo.cs
 E:\github\Simple.Enterprise.CQRS\src\Simple.Enterprise.Sample\Simple.Enterprise.Sample.Diary\obj\Debug\net6.0\Simple.Enterprise.Sample.Diary.ImplicitNamespaceImports.cs
 E:\github\Simple.Enterprise.CQRS\src\Simple.Enterprise.Sample\Simple.Enterprise.Sample.Diary\obj\Debug\net6.0\Simple.Enterprise.Sample.Diary.csproj.CoreCompileInputs.cache
+E:\github\Simple.Enterprise.CQRS\src\Simple.Enterprise.Sample\Simple.Enterprise.Sample.Diary\bin\Debug\net6.0\Simple.Enterprise.Sample.Diary.deps.json
+E:\github\Simple.Enterprise.CQRS\src\Simple.Enterprise.Sample\Simple.Enterprise.Sample.Diary\bin\Debug\net6.0\Simple.Enterprise.Sample.Diary.dll
+E:\github\Simple.Enterprise.CQRS\src\Simple.Enterprise.Sample\Simple.Enterprise.Sample.Diary\bin\Debug\net6.0\ref\Simple.Enterprise.Sample.Diary.dll
+E:\github\Simple.Enterprise.CQRS\src\Simple.Enterprise.Sample\Simple.Enterprise.Sample.Diary\bin\Debug\net6.0\Simple.Enterprise.Sample.Diary.pdb
+E:\github\Simple.Enterprise.CQRS\src\Simple.Enterprise.Sample\Simple.Enterprise.Sample.Diary\bin\Debug\net6.0\Simple.Enterprise.CQRS.dll
+E:\github\Simple.Enterprise.CQRS\src\Simple.Enterprise.Sample\Simple.Enterprise.Sample.Diary\bin\Debug\net6.0\Simple.Enterprise.CQRS.pdb
+E:\github\Simple.Enterprise.CQRS\src\Simple.Enterprise.Sample\Simple.Enterprise.Sample.Diary\obj\Debug\net6.0\Simple.Enterprise.Sample.Diary.csproj.CopyComplete
+E:\github\Simple.Enterprise.CQRS\src\Simple.Enterprise.Sample\Simple.Enterprise.Sample.Diary\obj\Debug\net6.0\Simple.Enterprise.Sample.Diary.dll
+E:\github\Simple.Enterprise.CQRS\src\Simple.Enterprise.Sample\Simple.Enterprise.Sample.Diary\obj\Debug\net6.0\ref\Simple.Enterprise.Sample.Diary.dll
+E:\github\Simple.Enterprise.CQRS\src\Simple.Enterprise.Sample\Simple.Enterprise.Sample.Diary\obj\Debug\net6.0\Simple.Enterprise.Sample.Diary.pdb

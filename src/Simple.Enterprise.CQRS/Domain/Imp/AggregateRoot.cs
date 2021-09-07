@@ -14,7 +14,7 @@ namespace Simple.Enterprise.CQRS.Domain.Imp
         private readonly List<Event> _changes;
 
         public Guid Id { get; protected set; }
-        public int Version { get; protected set; }
+        public int Version { get;  set; }
         public int EventVersion { get; protected set; }
 
         protected AggregateRoot()

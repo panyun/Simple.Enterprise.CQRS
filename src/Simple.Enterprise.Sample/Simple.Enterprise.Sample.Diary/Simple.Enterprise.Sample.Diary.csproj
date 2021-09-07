@@ -6,11 +6,11 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\Simple.Enterprise.CQRS\Simple.Enterprise.CQRS.csproj" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.DataAnnotations" Version="2.2.0" />
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="EventHandlers\" />
+    <ProjectReference Include="..\..\Simple.Enterprise.CQRS\Simple.Enterprise.CQRS.csproj" />
   </ItemGroup>
 
 </Project>

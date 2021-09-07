@@ -11,7 +11,7 @@ namespace Simple.Enterprise.CQRS.Utils
         {
 
         }
-        public IContainer Container { get; set; }
+        public IContainer Container { get; private set; }
 
 
     }

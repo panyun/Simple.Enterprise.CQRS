@@ -2,6 +2,7 @@
 using Simple.Enterprise.CQRS.Storage;
 using Simple.Enterprise.CQRS.Storage.Imp;
 using Simple.Enterprise.Sample.Diary.Domain.Mementos;
+using Simple.Enterprise.Sample.Diary.Event;
 
 namespace Simple.Enterprise.Sample.Diary.Domain
 {
